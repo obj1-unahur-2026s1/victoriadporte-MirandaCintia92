@@ -1,9 +1,11 @@
-import example.pepita
+import victoria.*
+describe "group of tests for victoriaDPorte" {
 
-describe "group of tests for pepita" {
-
-  test "pepita has initial energy" {
-    assert.equals(100, pepita.energy())
-  }
+  test "victoria mide 150m, practica judo, mnecesita untraje de judo y tiene 4 entrenadores "
+victoria.nuevaAltura(150
+victoria.disciplina(judo)
+victoria.entrenadores(4)
+assert.equals(9150, victoria.presupuesto()
+  
 
 }
